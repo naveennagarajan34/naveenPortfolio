@@ -184,6 +184,8 @@ header.shadow {
   align-items: center;
   gap: 2rem;
   margin-top: 4rem;
+  margin-inline: auto;
+  max-width: 80%;
 }
 .skills-img img {
   width: 80%;
